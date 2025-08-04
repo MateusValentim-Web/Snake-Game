@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin-top: 30px;
+    }
+
+    canvas {
+    background: #222;
+    border: 2px solid #555;
+}
